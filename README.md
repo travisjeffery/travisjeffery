@@ -6,7 +6,7 @@ I've mostly worked at new startups, working on many problems: distributed system
 
 Find me on the web:
 
-- [Homepage/blog](https://travisjeffery.com)
+- [Homepage and blog](https://travisjeffery.com)
 - [Twitter](https://twitter.com/travisjeffery)
 - [GitHub](https://github.com/travisjeffery)
 - [Email](mailto:tj+tj@travisjeffery.com)
