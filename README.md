@@ -2,7 +2,7 @@ I'm a Canadian software maker that's hacked on open source projects like Jocko,
 Timecop, and Mocha; and built several startups from the ground up, including Segment
 and Confluent. 
 
-I've mostly worked at new startups so I've worked on everything:
+I've mostly worked at new startups and worked on everything:
 distributed systems, infrastructure, back-end, front-end, mobile, tooling. I prefer
 distributed systems, infrastructure and back-end applied to big data problems.
 
