@@ -1,4 +1,4 @@
-I'm a Canadian software maker that's hacked on open source projects like Jocko, Timecop, and Mocha; and built several startups from the ground up, including Segment and Confluent.
+I'm a Canadian software maker that's hacked on open source projects like Jocko, Timecop, and Mocha; and built several startups from the ground up, including Segment and Confluent. I currently work at [Oscilar](https://oscilar.com/).
 
 I've mostly worked at new startups, working on many problems: distributed systems, infrastructure, back-end, front-end, mobile, tooling. I prefer distributed systems, infrastructure and back-end applied to big data problems.
 
